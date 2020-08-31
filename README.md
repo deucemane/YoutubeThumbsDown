@@ -1,2 +1,2 @@
-# YoutubeThumbsDown
-Tool that makes it easier for uploaders to see who thumbed down their YouTube video.
+# YoutubeForDesktop
+Updates to the YouTube desktop application.
